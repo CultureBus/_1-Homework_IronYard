@@ -1,0 +1,45 @@
+.logo {
+  height: 69px;
+  width: 140px;
+}
+
+.orange-background {
+background-color: #ff512f;
+}
+
+.black-shoe {
+  height: 448px;
+  width: 876px;
+}
+
+.white-sneakers {
+font-size:50px;
+font-family: arial, sans-serif;
+color: white;
+
+}
+
+.body-text {
+ font-family: arial, sans-serif;
+ color: white;
+
+}
+
+.brown-bigbold {
+  font-size:40px;
+  font-family: arial, sans-serif;
+  color: #503226;
+
+}
+
+.brown-littlelight {
+  font-size:20px;
+  font-family: arial, sans-serif;
+  color: #967878;
+
+}
+
+.right-aligned {
+  float: right;
+  Padding-right: 20px;
+}
